@@ -1,18 +1,30 @@
 # TinyWireM
 
-Arduino sketch or library from the Arduino archive.
+I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.1.1. Upstream: <https://github.com/adafruit/TinyWireM>.
 
-## Contents
+**Language:** C++ / Arduino  
+**Target:** Arduino (*)  
+**Output:** Arduino library
 
-- `examples/Tiny85_Temp_LCD_RTC/Tiny85_Temp_LCD_RTC.pde`
-- `examples/Tiny85_Temp_LCD/Tiny85_Temp_LCD.pde`
-- `examples/Tiny85_Temp/Tiny85_Temp.pde`
-- `library.properties`
+## Solution structure
+
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `TinyWireM` | C++ / Arduino | library | I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground |
+
+## How to open
+
+Copy this folder into the Arduino `libraries` directory as `TinyWireM` and include the library headers from a sketch.
 
 ## Attribution and provenance
 
-- No third-party source-code attribution markers were identified in assembly/package metadata.
+- **Original author / maintainer:** Adafruit
+- **library.properties name:** TinyWireM
+- **Version:** 1.1.1
+- **Upstream URL:** <https://github.com/adafruit/TinyWireM>
+- **Category:** Signal Input/Output
+- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
-MIT. See `LICENSE`.
+Original upstream license terms in this tree (where recorded). This repository does not claim authorship of the upstream library. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file added at import is a VaderConsulting MIT wrapper and does not replace upstream terms.
