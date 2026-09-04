@@ -4,7 +4,8 @@ I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playg
 
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
-**Output:** Arduino library
+**Output:** Arduino library  
+**Source last updated:** 2022-01-03
 
 ## Solution structure
 
