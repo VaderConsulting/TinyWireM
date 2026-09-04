@@ -17,6 +17,10 @@ I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playg
 
 Copy this folder into the Arduino `libraries` directory as `TinyWireM` and include the library headers from a sketch.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Adafruit
