@@ -1,6 +1,6 @@
 # TinyWireM
 
-I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.1.1. Upstream: <https://github.com/adafruit/TinyWireM>.
+I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground. Original author: Adafruit. This is my working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.1.1. Upstream: <https://github.com/adafruit/TinyWireM>.
 
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
@@ -28,7 +28,7 @@ Copy this folder into the Arduino `libraries` directory as `TinyWireM` and inclu
 - **Version:** 1.1.1
 - **Upstream URL:** <https://github.com/adafruit/TinyWireM>
 - **Category:** Signal Input/Output
-- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
+- This repository is my working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
