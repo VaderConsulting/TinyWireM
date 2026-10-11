@@ -32,4 +32,4 @@ Copy this folder into the Arduino `libraries` directory as `TinyWireM` and inclu
 
 ## License
 
-Original upstream license terms in this tree (where recorded). This repository does not claim authorship of the upstream library. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file added at import is a VaderConsulting MIT wrapper and does not replace upstream terms.
+Original upstream license terms in this tree (where recorded). This repository does not claim authorship of the upstream library. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file added at import is a Vader Consulting MIT wrapper and does not replace upstream terms.

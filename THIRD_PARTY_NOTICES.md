@@ -6,4 +6,4 @@ This tree is a working copy of **TinyWireM** by **Adafruit**.
 - Upstream: https://github.com/adafruit/TinyWireM
 - Version in this copy: 1.1.1
 - License hint: original upstream license terms in this tree (where recorded)
-- VaderConsulting / Dave Robinson did not author the third-party library code.
+- Vader Consulting / Dave Robinson did not author the third-party library code.
